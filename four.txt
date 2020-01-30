@@ -8,3 +8,9 @@ d) -3.4e+050
 View Answer
 Answer: b
 Explanation: Range of float data type is -(3.4e38) To +(3.4e38)
+
+a) -1.7e+308
+b) -3.4e+038
+c) +1.7e+308
+d) -3.4e+050
+View Answer
