@@ -5,8 +5,10 @@ bbbbbbbbbb
 
 ccccccccccccc
 
-dddddddddddddddddddddddddd new branch
+dddddddddddddddddddddddddd new branc
 
 eeeeeeeeeeeeeeeeeeeeeeeeee
 
 ffffffffffffffffff
+
+stash line
